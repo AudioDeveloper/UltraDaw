@@ -4,6 +4,8 @@ The official page is [mak-sa.net/software](http://mak-sa.net/software)
 
 Please be patient. This is a beta version. I would be very grateful if you could give me some feedback. Since this is a one-man project I don't have much time for testing. So I would be happy to receive any information about errors. Also, please write about what and how can be done better.
 
+I'll be happy to get some support from you via https://boosty.to/maksa_software/donate
+
 ## Main features
 
 Freeze tracks for low CPU usage

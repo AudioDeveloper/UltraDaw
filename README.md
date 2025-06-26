@@ -28,11 +28,11 @@ Import WAV, FLAC, MP3, MIDI files. Simple Renoise project converter
 
 VST2 with hi-speed bridge x86 plugins
 
-VST2 detailed info and manual set 32float / 64float processing
+Plugins detailed info and manual set 32float / 64float processing
 
-VST3, CLAP (may 2025)
+VST3, CLAP (may 2025) support done
 
-Load plugins direct from *.dll or from catalog
+Load plugins direct from *.dll or from UltraDAW database
 
 ## Analyzer
 

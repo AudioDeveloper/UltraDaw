@@ -2,6 +2,8 @@ It's full featured DAW with classical multitrack + tracker + some live stuff.
 
 The official page is [mak-sa.net/software](http://mak-sa.net/software)
 
+Nightly build here [mak-sa.net/software/udaw_beta.zip](http://mak-sa.net/software/udaw_beta.zip)
+
 Please be patient. This is a beta version. I would be very grateful if you could give me some feedback. Since this is a one-man project I don't have much time for testing. So I would be happy to receive any information about errors. Also, please write about what and how can be done better.
 
 I'll be happy to get some donations from you via https://boosty.to/maksa_software/donate

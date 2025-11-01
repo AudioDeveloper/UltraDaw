@@ -1,8 +1,8 @@
 It's full featured DAW with classical multitrack + tracker + some live stuff.
 
-The official page is [mak-sa.net/software](http://mak-sa.net/software)
+The official page is [ultradaw.com](https://ultradaw.com)
 
-Nightly build here [mak-sa.net/software/udaw_beta.zip](http://mak-sa.net/software/udaw_beta.zip)
+Nightly build here [ultradaw.com/software/udaw_beta.zip](https://ultradaw.com/software/udaw_beta.zip)
 
 Please be patient. This is a beta version. I would be very grateful if you could give me some feedback. Since this is a one-man project I don't have much time for testing. So I would be happy to receive any information about errors. Also, please write about what and how can be done better.
 
@@ -140,5 +140,5 @@ ASIO, DirectSound, MIDI, VST processing wrote by my self from scratch. Now i kwo
 Maximum portable – just exe file a couple of megs size and folder for settings
 
 ## Screenshots
-![pic1](http://mak-sa.net/software/wp-content/uploads/2024/10/2024-10-08_222046-mted.png)
-![pic2](http://mak-sa.net/software/wp-content/uploads/2024/10/2024-10-08_221222-mod-view.png)
+![pic1](https://ultradaw.com/wp-content/uploads/2025/10/2024-12-03_145703.png)
+![pic2](https://ultradaw.com/wp-content/uploads/2025/10/2025-10-03_135840.png)

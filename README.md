@@ -10,6 +10,8 @@ I'll be happy to get some donations from you via https://boosty.to/maksa_softwar
 
 ## Main features
 
+Classical DAW with audio / midi / group / send tracks and classical tracker with pattern / audio midi / group / send tracks in one pack
+
 Freeze tracks for low CPU usage
 
 Using computer keyboard as midi device (mapped to common modtracker keys)
@@ -30,11 +32,11 @@ Import WAV, FLAC, MP3, MIDI files. Simple Renoise project converter
 
 VST2 with hi-speed bridge x86 plugins
 
+VST3, CLAP
+
 Plugins detailed info and manual set 32float / 64float processing
 
-VST3, CLAP (may 2025) support done
-
-Load plugins direct from *.dll or from UltraDAW database
+Load plugins direct from filesystem (*.dll, *.vst3, *.clap files) or from UltraDAW database
 
 ## Analyzer
 
@@ -47,6 +49,7 @@ Oscilloscope
 Manual adjustement all meters timings
 
 ## Automation  
+
 External control
 
 Automation tracks with multi-destination
@@ -67,7 +70,7 @@ Comping wave recording
 
 Full-featured midi monitoring tools + internal sysex editor
 
-Autoreconnect used midi devices
+Autoreconnect used midi devices on attach
 
 ## Wave
 
@@ -83,31 +86,31 @@ One track – one instrument. No more mess “where this sample used?”
 
 Internal sampler
 
-Each track can use in parallela vsti / sampler / midi out
+Each track can use in parallel with plugin / sampler / midi out
 
 Pattern events has sample accurate positions
 
-Scalable pattern editor / sequence
+Scalable pattern editor / sequence with vertical reperesentation of wave / midi tracks
 
 Helper to write mod commands
 
 ## Mixing
 
-Support ASIO / DirectSound
+Support ASIO / DirectSound (ALSA, JACK work in progress)
 
-Internal processing 16i, 32i, 32f, 64f. Choose what you prefer
+Internal processing integer 16 bit, integer 32 bit, float 32 bit, float 64 bit. Choose what you prefer
 
 Three type of audio summator real world (simple sum), soft clip, hard clip
 
 Realtime approx mode – linear, cubic, sinc
 
-Manual delay of each track
+Manual sample-delay control of each track
 
 Multi core cpu support
 
 ##  Latency
 
-Full PDC on all tracks and masters (really is most advanced and complex code 
+Full PDC on all tracks and masters (really is most advanced and complex code)
 
 Detailed latency monitoring with us precision
 
@@ -123,7 +126,7 @@ Customizible color themes of every pixel on screen
 
 Total keyboard control (like old Amiga trackers !
 
-Multi core cpu support
+Detcahed mixer / edit if you prefer
 
 ##  Tech info
 
@@ -133,9 +136,9 @@ Lock-free realization. Use a couple events for midi interchange only
 
 GPU for rendering UI. Use my own low-level Direct3D library
 
-No used any third party libs. Zero STL use (ok, only one vector for AB switch selector)
+No used any third party libs. Zero STL use (ok, just one vector for AB switch selector)
 
-ASIO, DirectSound, MIDI, VST processing wrote by my self from scratch. Now i kwon almost all of this – looking for interesting job offers
+ASIO, DirectSound, MIDI, VST, CLAP processing wrote by my self from scratch. Now i kwon almost all of this – looking for interesting job offers
 
 Maximum portable – just exe file a couple of megs size and folder for settings
 

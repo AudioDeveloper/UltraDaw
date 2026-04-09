@@ -10,7 +10,7 @@ I'll be happy to get some donations from you via https://boosty.to/maksa_softwar
 
 ## Main features
 
-Classical DAW with audio / midi / group / send tracks and classical tracker with pattern / audio midi / group / send tracks in one pack
+Classical DAW with audio / midi / group / send tracks and classical tracker with pattern / audio / midi / group / send tracks in one pack
 
 Freeze tracks for low CPU usage
 

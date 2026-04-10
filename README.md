@@ -2,7 +2,9 @@ It's full featured DAW with classical multitrack + tracker + some live stuff.
 
 The official page is [ultradaw.com](https://ultradaw.com)
 
-Nightly build here [ultradaw.com/software/udaw_beta.zip](https://ultradaw.com/software/udaw_beta.zip)
+Nightly build here
+windows [ultradaw.com/software/udaw.zip](https://ultradaw.com/software/udaw.zip)
+linux [ultradaw.com/software/udaw.tar.gz](https://ultradaw.com/software/udaw.tar.gz)
 
 Please be patient. This is a beta version. I would be very grateful if you could give me some feedback. Since this is a one-man project I don't have much time for testing. So I would be happy to receive any information about errors. Also, please write about what and how can be done better.
 
@@ -96,7 +98,7 @@ Helper to write mod commands
 
 ## Mixing
 
-Support ASIO / DirectSound (ALSA, JACK work in progress)
+Support ASIO / DirectSound (windows), ALSA / JACK (linux)
 
 Internal processing integer 16 bit, integer 32 bit, float 32 bit, float 64 bit. Choose what you prefer
 
@@ -134,11 +136,11 @@ Audio engine coded in plain C for maximum power
 
 Lock-free realization. Use a couple events for midi interchange only
 
-GPU for rendering UI. Use my own low-level Direct3D library
+GPU for rendering UI. Use my own low-level Direct3D library in Windows version
 
-No used any third party libs. Zero STL use (ok, just one vector for AB switch selector)
+No used any third party libs in Windows version. Linux version is SDL3 powered
 
-ASIO, DirectSound, MIDI, VST, CLAP processing wrote by my self from scratch. Now i kwon almost all of this – looking for interesting job offers
+ASIO, DirectSound, MIDI, VST, VST3, CLAP, X11, ALSA, JACK processing wrote by my self from scratch. Now i kwon almost all of this – looking for interesting job offers
 
 Maximum portable – just exe file a couple of megs size and folder for settings
 

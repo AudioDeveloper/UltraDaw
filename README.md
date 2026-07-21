@@ -6,7 +6,7 @@ Nightly build here
 windows [ultradaw.com/software/udaw.zip](https://ultradaw.com/software/udaw.zip)
 linux [ultradaw.com/software/udaw.tar.gz](https://ultradaw.com/software/udaw.tar.gz)
 
-Please be patient. This is a beta version. I would be very grateful if you could give me some feedback. Since this is a one-man project I don't have much time for testing. So I would be happy to receive any information about errors. Also, please write about what and how can be done better.
+Please be patient. This is a pre-release version. I would be very grateful if you could give me some feedback. Since this is a one-man project I don't have much time for testing. So I would be happy to receive any information about errors. Also, please write about what and how can be done better.
 
 I'll be happy to get some donations from you via https://boosty.to/maksa_software/donate
 
@@ -102,7 +102,7 @@ Support ASIO / DirectSound (windows), ALSA / JACK (linux)
 
 Internal processing integer 16 bit, integer 32 bit, float 32 bit, float 64 bit. Choose what you prefer
 
-Three type of audio summator real world (simple sum), soft clip, hard clip
+Three type of audio summator - real world (simple sum), soft clip, hard clip
 
 Realtime approx mode – linear, cubic, sinc
 
@@ -126,7 +126,7 @@ Keyboard driven window layout management
 
 Customizible color themes of every pixel on screen
 
-Total keyboard control (like old Amiga trackers !
+Total keyboard control (like old Amiga trackers)
 
 Detcahed mixer / edit if you prefer
 
@@ -140,9 +140,9 @@ GPU for rendering UI. Use my own low-level Direct3D library in Windows version
 
 No used any third party libs in Windows version. Linux version is SDL3 powered
 
-ASIO, DirectSound, MIDI, VST, VST3, CLAP, X11, ALSA, JACK processing wrote by my self from scratch. Now i kwon almost all of this – looking for interesting job offers
+ASIO, DirectSound, MIDI, VST, VST3, CLAP, X11, ALSA, JACK processing wrote by my self from scratch. Now i know almost all of this – looking for interesting job offers
 
-Maximum portable – just exe file a couple of megs size and folder for settings
+Maximum portable – just exe file a several of megs size and folder for settings
 
 ## Screenshots
 ![pic1](https://ultradaw.com/wp-content/uploads/2025/10/2024-12-03_145703.png)

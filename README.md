@@ -6,11 +6,47 @@ Nightly build here
 windows [ultradaw.com/software/udaw.zip](https://ultradaw.com/software/udaw.zip)
 linux [ultradaw.com/software/udaw.tar.gz](https://ultradaw.com/software/udaw.tar.gz)
 
-![pic1](https://static.kvraudio.com/i/b/2026-04-10_130021.png)
+![pic1](https://ultradaw.com/software/udaw_pics/2026-04-10_130056.png)
 
 Please be patient. This is a pre-release version. I would be very grateful if you could give me some feedback. Since this is a one-man project I don't have much time for testing. So I would be happy to receive any information about errors. Also, please write about what and how can be done better.
 
 I'll be happy to get some donations from you via https://boosty.to/maksa_software/donate
+
+Included fx/synth pack (october 2026) from the box
+
+Filter (slope up to 384 dB)
+
+![pic1](https://ultradaw.com/software/udaw_pics/ufilter.png)
+
+Equalizer with lo/hi cut, lo/hi shelf and 5 band
+
+![pic1](https://ultradaw.com/software/udaw_pics/ueq5.png)
+
+Compressor
+
+![pic1](https://ultradaw.com/software/udaw_pics/ucomp.png)
+
+Delay 
+
+![pic1](https://ultradaw.com/software/udaw_pics/udelay.png)
+
+Chorus
+
+![pic1](https://ultradaw.com/software/udaw_pics/uchorus.png)
+
+Mallet instrument modeler
+
+![pic1](https://ultradaw.com/software/udaw_pics/ubell.png)
+
+Drums modeler
+
+![pic1](https://ultradaw.com/software/udaw_pics/udrums.png)
+
+High-end analog synth with 4 antialiased oscillators, lot of modulation and embedded fx
+
+![pic1](https://ultradaw.com/software/udaw_pics/ugenerator.png)
+
+
 
 ## Main features
 

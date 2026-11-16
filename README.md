@@ -14,35 +14,35 @@ I'll be happy to get some donations from you via https://boosty.to/maksa_softwar
 
 Included fx/synth pack (october 2026) from the box
 
-Filter (slope up to 384 dB)
+Filter (slope up to 384 dB) with LP/HP/BP/BR modes
 
 ![pic1](https://ultradaw.com/software/udaw_pics/ufilter.png)
 
-Equalizer with lo/hi cut, lo/hi shelf and 5 band
+Equalizer with lo/hi cut, lo/hi shelf and 5 bands
 
 ![pic1](https://ultradaw.com/software/udaw_pics/ueq5.png)
 
-Compressor
+Compressor with all extended features
 
 ![pic1](https://ultradaw.com/software/udaw_pics/ucomp.png)
 
-Delay 
+Stereo delay with multi-tap and ping-pong modes
 
 ![pic1](https://ultradaw.com/software/udaw_pics/udelay.png)
 
-Chorus
+Chorus with up-to 6 voices and visual representation
 
 ![pic1](https://ultradaw.com/software/udaw_pics/uchorus.png)
 
-Mallet instrument modeler
+Advanced mallet instrument modeler, featuring simulations of marimbas, vibraphones, bells, and more.
 
 ![pic1](https://ultradaw.com/software/udaw_pics/ubell.png)
 
-Drums modeler
+A sophisticated drum modeler featuring simulations of 2 types of bass drum, 3 types of snare drum, hi-hat, handclaps, and more.
 
 ![pic1](https://ultradaw.com/software/udaw_pics/udrums.png)
 
-High-end analog synth with 4 antialiased oscillators, lot of modulation and embedded fx
+A high-quality analog synthesizer featuring 4 alias-free oscillators, ladder and formant filters, extensive modulation options, and built-in overdrive, delay, and chorus effects.
 
 ![pic1](https://ultradaw.com/software/udaw_pics/ugenerator.png)
 
